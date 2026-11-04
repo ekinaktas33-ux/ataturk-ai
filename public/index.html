@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#a71326" />
+  <title>Atatürk AI — Tarihî Kaynaklarla Sohbet</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app-shell">
+    <aside class="sidebar">
+      <div class="brand"><span class="brand-mark">A</span><div><strong>ATATÜRK <i>AI</i></strong><small>TARİHLE KONUŞ</small></div></div>
+      <button class="new-chat" id="newChat"><span>＋</span> Yeni sohbet</button>
+      <div class="side-label">KEŞFET</div>
+      <button class="side-link active" data-prompt="Atatürk kimdir?"><span>◉</span> Atatürk'ü tanı</button>
+      <button class="side-link" data-prompt="Kurtuluş Savaşı nasıl başladı?"><span>⌁</span> Millî Mücadele</button>
+      <button class="side-link" data-prompt="Atatürk'ün inkılaplarını anlatır mısın?"><span>✳</span> Cumhuriyet ve inkılaplar</button>
+      <button class="side-link" data-prompt="Türk tarihinin önemli dönemlerini özetler misin?"><span>▤</span> Türk tarihi</button>
+      <div class="side-label library-label">BİLGİ KÜTÜPHANESİ</div>
+      <div class="library-count"><span class="library-icon">▦</span><div><b id="recordCount">540</b><small><span id="factCount">115</span> kaynak özeti · arama dizini</small></div><span class="arrow">›</span></div>
+      <div class="side-bottom"><div class="principles"><span>✳</span><div><b>Akıl · Bilim · Gerçek</b><small>Kaynağa dayalı tarih anlatımı</small></div></div><div class="side-foot">BETA SÜRÜMÜ <span>v0.1</span></div></div>
+    </aside>
+
+    <section class="chat-area">
+      <header class="topbar">
+        <div class="mobile-brand"><span class="brand-mark">A</span><b>ATATÜRK <i>AI</i></b></div>
+        <div class="top-title"><span class="status-dot"></span> Tarihî danışman <span class="beta">BETA</span></div>
+        <div class="top-actions"><button class="share-btn" id="shareBtn" title="Bağlantıyı paylaş">↗ <span>Paylaş</span></button><button class="icon-btn" id="sourcesToggle" title="Kaynaklar">▤</button></div>
+      </header>
+      <div class="chat-scroll" id="chatScroll">
+        <div class="welcome" id="welcome">
+          <div class="portrait-wrap">
+            <div class="portrait-halo"></div>
+            <div class="portrait"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Atat%C3%BCrk_portre.png" alt="Mustafa Kemal Atatürk'ün tarihî portresi" loading="eager" /></div>
+            <a class="portrait-caption" href="https://commons.wikimedia.org/wiki/File:Atat%C3%BCrk_portre.png" target="_blank" rel="noreferrer">FOTOĞRAF: BOĞOS TARKULYAN · WIKIMEDIA COMMONS</a>
+          </div>
+          <div class="eyebrow"><span></span> TARİHİN IŞIĞINDA BİR SOHBET</div>
+          <h1>Merhaba, ben<br><em>Atatürk AI.</em></h1>
+          <p class="intro">Atatürk'ün hayatı, fikirleri ve Türk tarihi üzerine kaynaklara dayalı bir keşfe başlayalım. Sana nasıl yardımcı olabilirim?</p>
+          <div class="suggestions">
+            <button class="suggestion" data-prompt="Atatürk'ün eğitim hayatını anlatır mısın?"><span>01</span><b>Atatürk'ün eğitim hayatı</b><i>↗</i></button>
+            <button class="suggestion" data-prompt="Samsun'a çıkışın önemi neydi?"><span>02</span><b>19 Mayıs ve Millî Mücadele</b><i>↗</i></button>
+            <button class="suggestion" data-prompt="Cumhuriyet hangi şartlarda ilan edildi?"><span>03</span><b>Cumhuriyet'in ilanı</b><i>↗</i></button>
+            <button class="suggestion" data-prompt="Atatürk'ün bilim hakkındaki yaklaşımı neydi?"><span>04</span><b>Akıl ve bilim anlayışı</b><i>↗</i></button>
+          </div>
+        </div>
+        <div class="messages" id="messages"></div>
+      </div>
+      <div class="composer-wrap">
+        <div class="composer">
+          <textarea id="question" rows="1" placeholder="Atatürk'e veya Türk tarihine dair bir şey sor…" aria-label="Mesajını yaz"></textarea>
+          <div class="composer-tools"><span class="composer-hint" id="composerHint">↵ Göndermek için Enter'a bas</span><div class="composer-actions"><button class="mic-btn" id="micBtn" aria-label="Sesle soru sor" title="Konuşarak soru yazdır">🎙</button><button class="send-btn" id="sendBtn" aria-label="Gönder">↑</button></div></div>
+        </div>
+        <div class="disclaimer">Bu deneyim, tarihî kaynaklardan beslenen bir yapay zekâ simülasyonudur. Atatürk'ün gerçek sesi veya birebir görüşü değildir.</div>
+      </div>
+    </section>
+
+    <aside class="source-panel" id="sourcePanel"><div class="panel-head"><div><span class="panel-kicker">ARAŞTIRMA</span><h3>Kaynak merkezi</h3></div><button id="closeSources">×</button></div><p class="panel-desc">Yanıtlar, güvenilir tarihî başvuru kaynaklarına göre hazırlanır.</p><div class="source-card"><span class="source-type">KURUMSAL ANSİKLOPEDİ</span><b>Atatürk Ansiklopedisi</b><p>Atatürk ve Cumhuriyet tarihi maddeleri; birincil ve güvenilir kaynaklara dayalı.</p><a href="https://ataturkansiklopedisi.gov.tr/" target="_blank" rel="noreferrer">Kaynağı aç ↗</a></div><div class="source-card"><span class="source-type">BİRİNCİL KAYNAK</span><b>Nutuk · TBMM Açık Erişim</b><p>Mustafa Kemal Atatürk'ün 1919–1927 dönemini anlattığı temel eser.</p><a href="https://acikerisim.tbmm.gov.tr/items/afe9a1ab-454b-46ca-b257-35b794ecb0e6" target="_blank" rel="noreferrer">Kaynağı aç ↗</a></div><div class="source-card"><span class="source-type">RESMÎ KRONOLOJİ</span><b>Millî Eğitim Bakanlığı</b><p>Atatürk'ün hayatı ve dönüm noktalarına ilişkin kronoloji.</p><a href="https://meb.gov.tr/ataturk/Hayati/Kronoloji" target="_blank" rel="noreferrer">Kaynağı aç ↗</a></div><div class="source-card"><span class="source-type">TÜRK TARİHİ</span><b>Türk Tarih Kurumu</b><p>Türk ve Osmanlı tarihi üzerine kurumsal yayın ve araştırmalar.</p><a href="https://www.ttk.gov.tr/" target="_blank" rel="noreferrer">Kaynağı aç ↗</a></div><div class="source-card"><span class="source-type">TÜRK DİLİ VE YAZITLAR</span><b>Türk Dil Kurumu</b><p>Türk dili, tarihî metinler ve yazıtlarla ilgili araştırmalar.</p><a href="https://www.tdk.gov.tr/" target="_blank" rel="noreferrer">Kaynağı aç ↗</a></div><div class="source-card"><span class="source-type">KURUMSAL TARİH</span><b>Atatürk Araştırma Merkezi</b><p>Atatürk dönemi ve Cumhuriyet tarihi yayınları.</p><a href="https://atam.gov.tr/" target="_blank" rel="noreferrer">Kaynağı aç ↗</a></div><div class="source-note">Yanıtlarda olgu ile yorum ayrılır. Kesin olmayan veya tartışmalı ayrıntılar ayrıca belirtilir.</div></aside>
+  </main>
+  <script src="extra-facts.js"></script>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
