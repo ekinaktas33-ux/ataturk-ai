@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: ataturk-ai
+    runtime: python
+    plan: free
+    buildCommand: echo "No extra packages needed"
+    startCommand: python app.py
