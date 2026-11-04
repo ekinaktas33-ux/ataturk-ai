@@ -28,9 +28,13 @@ Uygulama Python'un standart kütüphanesini kullanır; ek paket kurmanız gerekm
 
 Kaynakları yayımlamadan önce güvenilirliği, bağlamı ve kullanım haklarını doğrulayın. Örnek JSON kaydı yalnızca biçimi gösterir; gerçek tarihî alıntı değildir.
 
-## İnternette yayımlama
+## Canlı uygulama
 
-Bu proje `render.yaml` ile Render Blueprint dağıtımına hazırlanmıştır. Proje dosyalarını GitHub deposuna yükledikten sonra Render panelinde **New → Blueprint** seçin ve depoyu bağlayın. Render bir `onrender.com` adresi üretir; bu adres başkalarıyla paylaşılabilir. Ücretsiz web hizmetleri boş kaldığında uykuya geçebilir.
+Uygulamayı tarayıcıda açmak için: https://ataturk-ai.onrender.com/
+
+Kaynak kodu: https://github.com/ekinaktas33-ux/ataturk-ai
+
+Render ücretsiz web hizmetleri bir süre kullanılmadığında uykuya geçebilir; ilk açılışın başlaması biraz sürebilir.
 
 ## Sonraki geliştirme adımları
 
