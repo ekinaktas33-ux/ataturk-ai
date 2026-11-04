@@ -68,6 +68,11 @@ function answerQuestion(q){
  const intent=intentFor(q);
  if(intent!=='question')return {text:choose(SMALLTALK[intent]),records:[],kind:intent};
  let matches=findMatches(q);
+ const normalized=normalize(q);
+ if(/\b(?:olum\w*|vefat\w*|old\w*|hayata veda)\b/.test(normalized)){
+  const deathRecord=core.find(record=>/ataturk/.test(normalize(record.title))&&/(olum|vefat)/.test(normalize(record.title)));
+  if(deathRecord)return {text:deathRecord.text,records:[deathRecord],kind:'answer'};
+ }
  if(!matches.length&&state.lastRecords.length&&/^(peki|neden|sonra|bunun|bu|onu|daha|devam|acikla|anlat)/.test(normalize(q)))matches=state.lastRecords;
  if(!matches.length)return {text:'Bu soruyla doğrudan eşleşen bir kaynak özeti bulamadım. Biraz daha belirgin bir isim, tarih veya konu ekleyerek yeniden sorabilir misin? Örneğin “Sakarya Savaşı’nın sonucu ne oldu?” ya da “Atatürk’ün eğitim reformları” diye sorabilirsin.',records:[],kind:'notfound'};
  const chosen=matches.slice(0,3);
