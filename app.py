@@ -34,6 +34,10 @@ SYNONYMS = {
     "asker": {"asker", "askeri", "ordu", "savunma", "subay", "guvenlik"},
     "tarih": {"tarih", "gecmis", "nutuk", "belge", "milli mucadele"},
     "akil": {"akil", "bilim", "mantik", "gercek", "yontem"},
+    "olum": {"olum", "vefat", "1938"},
+    "vefat": {"vefat", "olum", "1938"},
+    "dogum": {"dogum", "dogdu", "1881"},
+    "dogdu": {"dogum", "dogdu", "1881"},
 }
 
 
@@ -62,11 +66,15 @@ def find_sources(question, sources):
     expanded = set(words)
     for word in words:
         expanded.update(SYNONYMS.get(word, set()))
+        if word.startswith(("olum", "vefat", "old")):
+            expanded.update({"olum", "vefat", "1938"})
+        if word.startswith(("dogum", "dogdu")):
+            expanded.update({"dogum", "dogdu", "1881"})
     words = expanded
     ranked = []
     for source in sources:
         text = normalize(" ".join(
-            str(source.get(key, "")) for key in ("title", "content", "tags", "topic")
+            str(source.get(key, "")) for key in ("title", "content", "tags", "topic", "date")
         ))
         text_words = set(text.split())
         score = sum(1 for word in words if word in text_words or (len(word) >= 5 and word[:5] in text))
@@ -74,6 +82,39 @@ def find_sources(question, sources):
             ranked.append((score, source))
     ranked.sort(key=lambda item: item[0], reverse=True)
     return [source for _, source in ranked[:5]]
+
+
+def answer_from_sources(question, matches):
+    normalized = normalize(question)
+    if re.search(r"\b(?:olum\w*|vefat\w*|old\w*)\b", normalized):
+        death_record = next(
+            (source for source in matches
+             if "vefat" in normalize(str(source.get("title", "")) + " " + str(source.get("content", "")))),
+            None,
+        )
+        if death_record:
+            answer = (
+                "Mustafa Kemal Atatürk, 10 Kasım 1938'de İstanbul'da Dolmabahçe Sarayı'nda vefat etti. "
+                "Cenazesi Ankara'ya getirildi; naaşı 1953'e kadar Etnografya Müzesi'nde kaldı ve "
+                "10 Kasım 1953'te Anıtkabir'e nakledildi."
+            )
+            return answer
+
+    summaries = []
+    seen = set()
+    for source in matches:
+        content = str(source.get("content", "")).strip()
+        normalized_content = normalize(content)
+        if content and normalized_content not in seen:
+            summaries.append(content)
+            seen.add(normalized_content)
+        if len(summaries) == 3:
+            break
+    if not summaries:
+        return "Bu soruyla doğrudan eşleşen bir kaynak bulamadım. Bir isim, tarih veya konu ekleyerek farklı biçimde sorabilir misin? Kaynak olmadan tarihî görüş ya da alıntı atfetmek istemem."
+    if len(summaries) == 1:
+        return summaries[0]
+    return "Şöyle özetleyebilirim:\n\n" + "\n\n".join(summaries)
 
 
 def page(question="", matches=None):
@@ -159,7 +200,7 @@ class Handler(BaseHTTPRequestHandler):
             else:
                 matches = find_sources(question, load_sources())
                 if matches:
-                    answer = "Kaynaklarda bulduğum bilgiler aşağıda. Bunlar tarihî belgelerin kısa özetleridir; günümüz için Atatürk'e ait doğrudan görüşler değildir."
+                    answer = answer_from_sources(question, matches)
                 else:
                     answer = "Bu soruyla doğrudan eşleşen bir kaynak bulamadım. Bir isim, tarih veya konu ekleyerek farklı biçimde sorabilir misin? Kaynak olmadan tarihî görüş ya da alıntı atfetmek istemem."
             self.send_json({"answer": answer, "matches": matches})
