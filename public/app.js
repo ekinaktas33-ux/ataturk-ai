@@ -64,11 +64,34 @@ function findMatches(q){
  if(state.lastRecords.length&&normalized.split(' ').length<7&&/^(peki|neden|sonra|bunun|bu|onu|daha|devam|hangi|ne zaman|acikla|anlat)/.test(normalized))return state.lastRecords;
  return core.map(record=>({record,score:scoreRecord(q,record)})).filter(item=>item.score>1.25).sort((a,b)=>b.score-a.score).slice(0,5).map(item=>item.record)
 }
+function getRecord(title){return core.find(record=>normalize(record.title)===normalize(title))}
 function answerQuestion(q){
  const intent=intentFor(q);
  if(intent!=='question')return {text:choose(SMALLTALK[intent]),records:[],kind:intent};
- let matches=findMatches(q);
  const normalized=normalize(q);
+ const aboutAtaturk=/ataturk|mustafa kemal/.test(normalized);
+ if(aboutAtaturk&&/(unvan|rutbe|basogretmen|maresal|gazi|sifat)/.test(normalized)){
+  const records=[
+   getRecord('Gazi unvanı ve Mareşal rütbesi'),
+   core.find(record=>normalize(record.title).includes('basogretmen')),
+   getRecord('Başkomutanlık Kanunu'),
+   getRecord("Atatürk'ün cumhurbaşkanlığı"),
+   getRecord('Soyadı Kanunu')
+  ].filter(Boolean);
+  const text='Atatürk için kullanılan adları ve görevleri ayırarak anlatayım:\n\n• Gazi: TBMM, Sakarya Meydan Muharebesi’nin ardından 19 Eylül 1921’de bu unvanı verdi.\n• Mareşal: Aynı gün verilen askerî rütbedir. “Gazi” unvan, “Mareşal” rütbedir.\n• Başöğretmen: Millet Mektepleri için hazırlanan yönetmelik 24 Kasım 1928’de yürürlüğe girdi; Mustafa Kemal bu görevi kabul etti.\n\nAyrıca 5 Ağustos 1921’de Başkomutanlık yetkisi verildi; 29 Ekim 1923’te Cumhurbaşkanı seçildi. Bunlar birer görevdir. “Atatürk” soyadı ise TBMM tarafından 24 Kasım 1934’te verildi; bir unvan değildir.';
+  return {text,records,kind:'answer'};
+ }
+ if(aboutAtaturk&&(/katil|savaslar|savaslara|cepheler|muharebeler/.test(normalized)||/hangi savas|hangi cephe|askeri mucadele/.test(normalized))){
+  const records=[
+   getRecord("Atatürk'ün askerî görev aldığı savaşlar ve cepheler"),
+   getRecord('Sakarya Meydan Muharebesi'),
+   getRecord('Büyük Taarruz'),
+   getRecord('Başkomutanlık Meydan Muharebesi')
+  ].filter(Boolean);
+  const text='Atatürk’ün askerî görev aldığı başlıca savaş ve cepheler kronolojik olarak şöyle:\n\n• Trablusgarp Savaşı (1911–1912): Derne ve Tobruk çevresinde görev yaptı.\n• Balkan Savaşları (1912–1913): Gelibolu ve Bolayır çevresinde görev aldı.\n• Birinci Dünya Savaşı: Çanakkale (1915), Doğu/Kafkas Cephesi (1916) ve Sina-Filistin Cephesi (1917–1918).\n• Millî Mücadele (1919–1922): Başkomutan olarak Sakarya Meydan Muharebesi ile Büyük Taarruz’un sevk ve idaresinde belirleyici rol oynadı. Dönemin diğer önemli muharebeleri arasında İnönü ve Kütahya-Eskişehir de bulunur.\n\nNot: Millî Mücadele’deki her muharebede bizzat cephede bulunduğunu söylemek doğru olmaz; görev ve komuta konumu yıllara göre değişti.';
+  return {text,records,kind:'answer'};
+ }
+ let matches=findMatches(q);
  if(/\b(?:olum\w*|vefat\w*|old\w*|hayata veda)\b/.test(normalized)){
   const deathRecord=core.find(record=>/ataturk/.test(normalize(record.title))&&/(olum|vefat)/.test(normalize(record.title)));
   if(deathRecord)return {text:deathRecord.text,records:[deathRecord],kind:'answer'};
