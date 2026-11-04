@@ -47,9 +47,14 @@ def normalize(text):
 def load_sources():
     try:
         data = json.loads(DATA_FILE.read_text(encoding="utf-8"))
-        return data if isinstance(data, list) else []
-    except (OSError, json.JSONDecodeError):
+        if isinstance(data, list):
+            print(f"[Atatürk AI] {len(data)} kaynak yüklendi: {DATA_FILE}")
+            return data
+        print(f"[Atatürk AI] Kaynak dosyası liste değil: {type(data).__name__}")
+    except (OSError, json.JSONDecodeError) as error:
+        print(f"[Atatürk AI] Kaynak dosyası okunamadı ({DATA_FILE}): {type(error).__name__}: {error}")
         return []
+    return []
 
 
 def find_sources(question, sources):
