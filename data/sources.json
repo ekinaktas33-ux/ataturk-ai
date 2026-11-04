@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 36677)
-Total output lines: 3463
-
 [
   {
     "title": "Millî Eğitim — öğretmen ve yeni kuşak",
@@ -1172,7 +1169,1126 @@ Total output lines: 3463
       "kilogram",
       "ölçü",
       "standart"
-…11677 tokens truncated…i",
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Hafta tatilinin pazar gününe alınması",
+    "date": "1935",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi ve ATAM kaynaklı tarih özeti",
+    "content": "Hafta tatilini pazar gününe taşıyan düzenleme yürürlüğe girdi. Takvim ve saat düzenlemeleriyle birlikte uluslararası günlük yaşam standartlarına uyum hedeflendi.",
+    "topic": "toplum, hukuk",
+    "tags": [
+      "hafta tatili",
+      "pazar",
+      "takvim"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Montrö Boğazlar Sözleşmesi",
+    "date": "1936",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Montrö Sözleşmesi, Boğazlardan geçiş rejimini yeniden düzenledi ve Türkiye’nin Boğazlar üzerindeki egemenlik yetkisini güçlendirdi.",
+    "topic": "dış politika, savunma",
+    "tags": [
+      "Montrö",
+      "Boğazlar",
+      "egemenlik"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/355/Montreux_%28Montr%C3%B6%29_Bo%C4%9Fazlar_S%C3%B6zle%C5%9Fmesi_%2822_Haziran-20_Temmuz_1936%29"
+  },
+  {
+    "title": "Altı ilkenin anayasaya girmesi",
+    "date": "1937",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi ve ATAM kaynaklı tarih özeti",
+    "content": "Cumhuriyetçilik, milliyetçilik, halkçılık, devletçilik, laiklik ve inkılapçılık ilkeleri 1937’de anayasa metnine eklendi.",
+    "topic": "siyaset, hukuk",
+    "tags": [
+      "Altı ok",
+      "ilkeler",
+      "anayasa"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Atatürk’ün vefatı",
+    "date": "1938",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi ve ATAM kaynaklı tarih özeti",
+    "content": "Mustafa Kemal Atatürk 10 Kasım 1938’de İstanbul’da Dolmabahçe Sarayı’nda vefat etti. Cenazesi Ankara’ya getirildi ve Etnografya Müzesi’ne geçici olarak konuldu.",
+    "topic": "yaşam, tarih",
+    "tags": [
+      "10 Kasım",
+      "vefat",
+      "Dolmabahçe"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Barışçı dış politika",
+    "date": "1923–1938",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Cumhuriyet dönemi dış politikası, yeni devletin egemenliğini güvenceye alma ve sorunları diplomasiyle çözme hedefini öne çıkardı. Bölgesel güvenlik anlaşmaları bu yaklaşımın araçlarındandı.",
+    "topic": "dış politika, diplomasi",
+    "tags": [
+      "barış",
+      "dış politika",
+      "diplomasi"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Balkan Antantı",
+    "date": "1934",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Türkiye, Yunanistan, Yugoslavya ve Romanya 1934’te Balkan Antantı’nı imzaladı. Antant, Balkan sınırlarının korunması ve bölgesel güvenlik iş birliğini hedefledi.",
+    "topic": "dış politika, diplomasi",
+    "tags": [
+      "Balkan Antantı",
+      "güvenlik",
+      "Balkanlar"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/682/Balkan-Antant%C4%B1"
+  },
+  {
+    "title": "Sadabat Paktı",
+    "date": "1937",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Türkiye, İran, Irak ve Afganistan 1937’de Sadabat Paktı’nı imzaladı. Anlaşma, bölgesel saldırmazlık ve iyi komşuluk ilişkilerine yönelikti.",
+    "topic": "dış politika, diplomasi",
+    "tags": [
+      "Sadabat",
+      "İran",
+      "Irak",
+      "Afganistan"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Musul sorununun çözümü",
+    "date": "1926",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Türkiye ile İngiltere arasında yapılan anlaşmayla Musul’un Irak’a bırakılması kabul edildi. Lozan’da çözülemeyen konu diplomatik müzakerelerle karara bağlandı.",
+    "topic": "dış politika, diplomasi",
+    "tags": [
+      "Musul",
+      "Irak",
+      "İngiltere",
+      "Lozan"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/907/Atat%C3%BCrk-D%C3%B6nemi-T%C3%BCrkiye-Orta-Do%C4%9Fu-%C4%B0li%C5%9Fkileri"
+  },
+  {
+    "title": "Hatay’ın Türkiye’ye katılması süreci",
+    "date": "1936–1939",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Hatay meselesi uluslararası görüşmeler ve yerel siyasi gelişmelerle ilerledi. Hatay Devleti 1938’de kuruldu; Türkiye’ye katılma 1939’da, Atatürk’ün ölümünden sonra gerçekleşti.",
+    "topic": "dış politika, Hatay",
+    "tags": [
+      "Hatay",
+      "Suriye",
+      "diplomasi"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/907/Atat%C3%BCrk-D%C3%B6nemi-T%C3%BCrkiye-Orta-Do%C4%9Fu-%C4%B0li%C5%9Fkileri"
+  },
+  {
+    "title": "Yunanistan ile yakınlaşma",
+    "date": "1930",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Türkiye ile Yunanistan arasındaki ilişkiler 1930’larda normalleşme yönünde ilerledi. Balkan iş birliği girişimleri bu yakınlaşmanın bölgesel boyutunu oluşturdu.",
+    "topic": "dış politika, diplomasi",
+    "tags": [
+      "Yunanistan",
+      "Balkanlar",
+      "dostluk"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "İzmir İktisat Kongresi’nin bileşimi",
+    "date": "1923",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Kongrede çiftçi, tüccar, sanayici ve işçi gruplarının temsilcileri yer aldı. Toplantı, savaş sonrasında ekonomik öncelikleri ortaklaşa tartışma girişimiydi.",
+    "topic": "ekonomi, temsil",
+    "tags": [
+      "İzmir",
+      "kongre",
+      "çiftçi",
+      "işçi",
+      "tüccar"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/438/T%C3%BCrkiye-%C4%B0ktisat-Kongresi"
+  },
+  {
+    "title": "Misak-ı İktisadi",
+    "date": "1923",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "İzmir İktisat Kongresi’nde kabul edilen Misak-ı İktisadi, ekonomik yaşama ilişkin ortak hedef ve ilkeleri duyurdu. Kongre, üretim ve ulusal ekonomik bağımsızlık tartışmalarına alan açtı.",
+    "topic": "ekonomi, kongre",
+    "tags": [
+      "Misak-ı İktisadi",
+      "üretim",
+      "ekonomi"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Dünya ekonomik bunalımının etkisi",
+    "date": "1929–1930",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Dünya ekonomik bunalımı Türkiye’nin dış ticaretini ve ekonomik tercihlerini etkiledi. Devletin sanayi yatırımlarındaki rolü 1930’larda arttı.",
+    "topic": "ekonomi, tarih",
+    "tags": [
+      "1929 bunalımı",
+      "devletçilik",
+      "sanayi"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/174/1929-Ekonomik-Buhran%C4%B1"
+  },
+  {
+    "title": "Devletçilik ve karma ekonomi",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Atatürk dönemi devletçiliği, özel girişimin yetersiz kaldığı alanlarda devlet yatırımlarını artırdı. Uygulama, devlet ve özel sektörün birlikte bulunduğu karma ekonomik yapı içinde gelişti.",
+    "topic": "ekonomi, devletçilik",
+    "tags": [
+      "devletçilik",
+      "özel sektör",
+      "karma ekonomi"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/bilgi/ataturk-ilkeleri/?pdf=3798"
+  },
+  {
+    "title": "Demiryolu yatırımları",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Demiryolu ağının genişletilmesi, iç bölgeleri limanlara ve pazarlara bağlama hedefi taşıdı. Ulaşım yatırımları ekonomik bütünleşme ve güvenlik açısından önemsendi.",
+    "topic": "ekonomi, ulaşım",
+    "tags": [
+      "demiryolu",
+      "ulaşım",
+      "kalkınma"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Tarımın geliştirilmesi",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Cumhuriyet yönetimi tarımsal üretimi artırmak için tohum, fidan, hayvancılık ve tarımsal eğitim konularında kurumlar ve uygulamalar geliştirdi.",
+    "topic": "ekonomi, tarım",
+    "tags": [
+      "tarım",
+      "tohum",
+      "çiftçi",
+      "üretim"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Sümerbank ve sanayileşme",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Sümerbank, devlet sanayi kuruluşlarının işletilmesi ve yeni fabrika yatırımlarının düzenlenmesinde rol aldı. Tekstil başta olmak üzere sanayi alanlarına finansman ve teknik destek sağladı.",
+    "topic": "ekonomi, kurumlar",
+    "tags": [
+      "Sümerbank",
+      "fabrika",
+      "sanayi",
+      "tekstil"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Etibank’ın kurulması",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Etibank, maden kaynaklarının değerlendirilmesi ve enerji yatırımlarının geliştirilmesi için kuruldu. Madencilik, sanayi politikasıyla bağlantılı bir kalkınma alanıydı.",
+    "topic": "ekonomi, kurumlar",
+    "tags": [
+      "Etibank",
+      "maden",
+      "enerji"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Fabrikalar ve yerli üretim",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Devlet yatırımları dokuma, şeker, kâğıt ve temel sanayi gibi alanlarda üretim kapasitesi oluşturmayı hedefledi. Bu tesisler ithalat bağımlılığını azaltma amacıyla ilişkilendirildi.",
+    "topic": "ekonomi, sanayi",
+    "tags": [
+      "fabrika",
+      "dokuma",
+      "şeker",
+      "kâğıt"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Bilimsel kurumların rolü",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Türk Tarih Kurumu ve Türk Dil Kurumu gibi kurumlar, tarih ve dil araştırmalarını düzenli ve örgütlü biçimde yürütmek üzere çalıştı.",
+    "topic": "bilim, kurumlar",
+    "tags": [
+      "araştırma",
+      "tarih",
+      "dil",
+      "kurum"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Maarif Kongresi",
+    "date": "1921",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Ankara’da toplanan Maarif Kongresi, savaş sürerken eğitim sorunlarını ve eğitim politikasının yönünü ele aldı. Öğretmenler ve eğitimciler toplantıya katıldı.",
+    "topic": "eğitim, kongre",
+    "tags": [
+      "Maarif Kongresi",
+      "eğitim",
+      "öğretmen"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Üniversite reformunda yabancı akademisyenler",
+    "date": "1933",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "İstanbul Üniversitesi reformu sırasında Almanya’dan ayrılmak zorunda kalan bazı akademisyenler Türkiye’de görev aldı. Bu gelişme, yükseköğretim kadrolarını ve bilimsel çalışmaları etkiledi.",
+    "topic": "eğitim, bilim",
+    "tags": [
+      "üniversite",
+      "akademisyen",
+      "bilim",
+      "1933"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Millet Mektepleri",
+    "date": "1928–1929",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Yeni Türk harflerini yetişkinlere öğretmek için Millet Mektepleri açıldı. Eğitim seferberliği, okuryazarlığı yaygınlaştırmayı hedefledi.",
+    "topic": "eğitim, dil",
+    "tags": [
+      "Millet Mektepleri",
+      "okuryazarlık",
+      "alfabe"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Dil ve tarih kurultayları",
+    "date": "1936",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Türk dili ve tarihi üzerine kurumsal araştırmalar, kurultaylar ve yayınlarla desteklendi. Bu tartışmaların dönemin bilimsel standartlarıyla ilişkisi ayrıca tarihsel bağlam içinde değerlendirilmelidir.",
+    "topic": "bilim, tarih, dil",
+    "tags": [
+      "kurultay",
+      "Türkçe",
+      "tarih araştırması"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Kadınların kamusal yaşama katılımı",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Eğitim ve siyasal haklardaki değişiklikler kadınların kamusal yaşama katılımını genişletti. Uygulama, dönemin toplumsal koşulları ve sınırları içinde değerlendirilmelidir.",
+    "topic": "kadın hakları, toplum",
+    "tags": [
+      "kadın",
+      "eğitim",
+      "siyaset",
+      "toplum"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/919/Atat%C3%BCrk-D%C3%B6neminde-Kad%C4%B1n-Haklar%C4%B1"
+  },
+  {
+    "title": "Hukuk devriminin kapsamı",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Cumhuriyet dönemindeki hukuk düzenlemeleri medeni hukuk, ceza hukuku ve ticaret gibi alanları yeniden düzenledi. Hukuk değişiklikleri, devlet ve toplum yapısını etkileyen geniş bir dönüşümün parçasıydı.",
+    "topic": "hukuk, toplum",
+    "tags": [
+      "hukuk devrimi",
+      "medeni hukuk",
+      "ceza hukuku"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/848/Atat%C3%BCrk-ve-Hukuk-Devrimi"
+  },
+  {
+    "title": "Laiklik ve kamu yönetimi",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Laiklik ilkesi, devlet işlerinin ve kamu hizmetlerinin dinî otoriteden bağımsız bir hukuk çerçevesinde yürütülmesi anlayışıyla ilişkilendirildi. Tarihsel uygulama kendi dönemi ve kanunları içinde incelenmelidir.",
+    "topic": "hukuk, siyaset",
+    "tags": [
+      "laiklik",
+      "devlet",
+      "hukuk"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/851/Atat%C3%BCrk-ve-Laiklik"
+  },
+  {
+    "title": "Nutuk’un okunması",
+    "date": "1927",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Atatürk, Nutuk’u 15–20 Ekim 1927’de Cumhuriyet Halk Partisi İkinci Kurultayı’nda okudu. Eser, 1919’dan 1927’ye uzanan Millî Mücadele ve kuruluş dönemini kendi anlatımıyla ele alır.",
+    "topic": "eserler, tarih",
+    "tags": [
+      "Nutuk",
+      "1927",
+      "konuşma",
+      "Millî Mücadele"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Söylev ve demeçlerin derlenmesi",
+    "date": "1906–1938",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "ATAM’ın üç ciltlik derlemesi, 1906–1938 döneminden Atatürk’e ait söylev, demeç ve yazıları bir araya getirir. Alıntılar tarih, yer ve bağlamıyla birlikte incelenmelidir.",
+    "topic": "eserler, kaynak",
+    "tags": [
+      "Söylev ve Demeçler",
+      "birincil kaynak",
+      "konuşma"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Geometri kitabı",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Atatürk, okul geometrisi için kullanılan terimlere katkı amacıyla Geometri adlı kısa bir kitap hazırladı. Eser, Türkçe matematik terimlerinin oluşturulması çabasıyla anılır.",
+    "topic": "bilim, dil, eserler",
+    "tags": [
+      "Geometri",
+      "matematik",
+      "Türkçe",
+      "terim"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Türk Tarih Tezi tartışmaları",
+    "date": "1931",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Türk tarihine ilişkin yeni yorumlar 1930’larda ders kitapları, kurultaylar ve kurum çalışmaları içinde geliştirildi. Bu tezler günümüz tarihçiliğinde kaynak ve yöntem açısından eleştirel olarak incelenir.",
+    "topic": "tarih, bilim",
+    "tags": [
+      "Türk Tarih Tezi",
+      "tarihçilik",
+      "eleştiri"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Birinci Türk Dil Kurultayı",
+    "date": "1932",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Türk Dili Tetkik Cemiyetinin ilk kurultayı 1932’de toplandı. Kurultayda Türkçenin incelenmesi, söz varlığı ve dil çalışmaları ele alındı.",
+    "topic": "dil, bilim",
+    "tags": [
+      "Türk Dil Kurultayı",
+      "Türkçe",
+      "sözlük"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Dil reformu ve terim üretimi",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Dil çalışmaları, Türkçe terimlerin geliştirilmesini ve yazı dilinin düzenlenmesini amaçladı. Bu süreçte önerilen bazı dil açıklamaları daha sonra bilimsel inceleme ve düzeltmelere konu oldu.",
+    "topic": "dil, bilim",
+    "tags": [
+      "dil reformu",
+      "terim",
+      "Türkçe",
+      "bilimsel yöntem"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Ankara’nın yeni başkent olarak gelişmesi",
+    "date": "1920’ler",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Ankara, başkent olduktan sonra yeni kamu binaları, ulaşım ve planlama yatırımlarıyla büyüdü. Cumhuriyetin idari merkezinin İstanbul dışında kurulması devlet yapısının yeniden örgütlenmesini simgeledi.",
+    "topic": "şehir, siyaset",
+    "tags": [
+      "Ankara",
+      "başkent",
+      "şehircilik"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Cumhuriyetin kurumsallaşması",
+    "date": "1920’ler",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "TBMM, bakanlıklar ve yeni anayasal düzen, savaş zamanı yönetiminden kalıcı devlet kurumlarına geçiş sürecini oluşturdu. Kurumsal değişim birkaç yıla yayıldı.",
+    "topic": "siyaset, kurumlar",
+    "tags": [
+      "TBMM",
+      "cumhuriyet",
+      "kurumlar"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Devlet-halk ilişkisi",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Halkçılık ilkesi, siyasal ayrıcalıkların reddi ve yurttaşlık temelinde birlik söylemiyle açıklandı. Dönemin siyasal sistemi ve uygulamaları bu resmî ilkeyle birlikte ele alınmalıdır.",
+    "topic": "siyaset, toplum",
+    "tags": [
+      "halkçılık",
+      "yurttaşlık",
+      "eşitlik"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Cumhuriyetçilik ilkesi",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Cumhuriyetçilik, egemenliğin hanedana değil millete ait olduğu ve devlet başkanlığının seçimli cumhuriyet düzeninde yürütüldüğü ilkeyi ifade eder.",
+    "topic": "siyaset, hukuk",
+    "tags": [
+      "cumhuriyetçilik",
+      "egemenlik",
+      "seçim"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Milliyetçilik ilkesi",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Dönemin milliyetçilik anlayışı, ortak yurttaşlık ve ulusal bağımsızlık çerçevesinde ele alınır. Kavramın farklı dönemlerdeki yorumlarını birbirinden ayırmak gerekir.",
+    "topic": "siyaset, tarih",
+    "tags": [
+      "milliyetçilik",
+      "yurttaşlık",
+      "bağımsızlık"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "İnkılapçılık ilkesi",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "İnkılapçılık, Cumhuriyet’in kurucu değişikliklerini sürdürme ve kurumları dönemin ihtiyaçlarına göre yenileme ilkesi olarak tanımlandı.",
+    "topic": "siyaset, toplum",
+    "tags": [
+      "inkılapçılık",
+      "yenilik",
+      "değişim"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Akıl ve bilim vurgusu",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "ATAM’ın düşünce derlemelerinde akıl, bilim ve gerçekçilik karar alma ilkeleri olarak öne çıkar. Bu ifadeler kaynak ve bağlam denetlenerek kullanılmalıdır.",
+    "topic": "bilim, düşünce",
+    "tags": [
+      "akıl",
+      "bilim",
+      "gerçekçilik",
+      "yöntem"
+    ],
+    "url": "https://atam.gov.tr/akilcilik-bilimcilik-gerceklik/"
+  },
+  {
+    "title": "Eğitimin toplumsal rolü",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Cumhuriyet döneminde eğitim, okuryazarlık ve meslekî yeterlilikleri artırmanın yanı sıra ortak bir kamusal kültür oluşturma aracı olarak görüldü.",
+    "topic": "eğitim, toplum",
+    "tags": [
+      "eğitim",
+      "okuryazarlık",
+      "kültür"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Köy eğitimi ve öğretmenlik",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Öğretmen yetiştirme ve kırsal bölgelerde okul hizmetini yaygınlaştırma, Cumhuriyetin eğitim gündemindeki temel meseleler arasındaydı. Köy Enstitüleri 1940’ta, Atatürk’ün ölümünden sonra kuruldu.",
+    "topic": "eğitim, tarih",
+    "tags": [
+      "köy",
+      "öğretmen",
+      "Köy Enstitüleri"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Sağlık kurumlarının gelişimi",
+    "date": "1920’ler",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Savaş sonrasında sağlık hizmetlerini örgütleme, salgınlarla mücadele ve sağlık personeli yetiştirme yeni devletin temel kamu hizmetleri arasına girdi.",
+    "topic": "sağlık, kurumlar",
+    "tags": [
+      "sağlık",
+      "hastane",
+      "kamu hizmeti"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Sanayi planlamasının amaçları",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Sanayi planlaması, ülke içinde temel malların üretimini artırma ve yatırımları öncelikli sektörlere yöneltme hedefi taşıdı. Planların uygulanması finansman ve uzmanlık kapasitesiyle sınırlıydı.",
+    "topic": "ekonomi, sanayi",
+    "tags": [
+      "planlama",
+      "sanayileşme",
+      "üretim"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "İktisadi bağımsızlık düşüncesi",
+    "date": "1930’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Dönem kaynakları siyasal bağımsızlığın kalıcılığını ekonomik kapasiteyle ilişkilendirir. İzmir İktisat Kongresi ve sanayi politikaları bu hedef doğrultusunda değerlendirilebilir.",
+    "topic": "ekonomi, siyaset",
+    "tags": [
+      "iktisadi bağımsızlık",
+      "üretim",
+      "ekonomi"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Montrö’nün güvenlik boyutu",
+    "date": "1936",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Montrö rejimi ticaret gemilerinin geçişini düzenlerken savaş gemileri için farklı kurallar belirledi. Sözleşme, Karadeniz ve Boğazların güvenliğini uluslararası bir çerçeveye bağladı.",
+    "topic": "dış politika, savunma",
+    "tags": [
+      "Montrö",
+      "savaş gemisi",
+      "Karadeniz"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/355/Montreux_%28Montr%C3%B6%29_Bo%C4%9Fazlar_S%C3%B6zle%C5%9Fmesi_%2822_Haziran-20_Temmuz_1936%29"
+  },
+  {
+    "title": "Balkan iş birliği ve sınır güvenliği",
+    "date": "1934",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi",
+    "content": "Balkan Antantı, üye ülkelerin mevcut sınırları korumaya dönük ortak iradesini gösterdi. Antantın bağlayıcı bir ortak savunma mekanizması sınırlıydı.",
+    "topic": "dış politika, güvenlik",
+    "tags": [
+      "Balkan Antantı",
+      "sınır",
+      "güvenlik"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/682/Balkan-Antant%C4%B1"
+  },
+  {
+    "title": "Komşularla ilişkilerde gerçekçilik",
+    "date": "1923–1938",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Türkiye, sorunlarını çözmeye çalışırken güç dengelerini ve dönemin uluslararası şartlarını hesaba kattı. Bu yaklaşımın örnekleri Lozan, Musul ve Boğazlar dosyalarında görülebilir.",
+    "topic": "dış politika, diplomasi",
+    "tags": [
+      "gerçekçilik",
+      "Lozan",
+      "Musul",
+      "Boğazlar"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Vasiyet ve mal varlığı",
+    "date": "1938",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Atatürk, mal varlığının önemli bölümünü Cumhuriyet Halk Partisine bıraktı; vasiyetinde yakınlarına ve bazı kurumlara yönelik düzenlemeler de yer aldı. Ayrıntılar vasiyetname metninden doğrulanmalıdır.",
+    "topic": "yaşam, hukuk",
+    "tags": [
+      "vasiyet",
+      "mal varlığı",
+      "tarih"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Defin yeri ve Anıtkabir",
+    "date": "1938",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "ATAM kaynaklı tarih ve kurum özeti",
+    "content": "Atatürk’ün naaşı 1953’e kadar Ankara Etnografya Müzesi’nde kaldı; Anıtkabir’e nakil Atatürk’ün ölümünden yıllar sonra gerçekleştirildi.",
+    "topic": "yaşam, anma",
+    "tags": [
+      "Anıtkabir",
+      "Etnografya Müzesi",
+      "1953"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Mustafa Kemal’in ailesi",
+    "date": "1881–1890’lar",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Mustafa Kemal’in annesi Zübeyde Hanım, babası Ali Rıza Efendi’dir. Kardeşleri arasında Makbule Hanım da bulunur.",
+    "topic": "yaşam, aile",
+    "tags": [
+      "Zübeyde Hanım",
+      "Ali Rıza Efendi",
+      "Makbule",
+      "aile"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Mahalle mektebi ve Şemsi Efendi Okulu",
+    "date": "1880’ler",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Mustafa Kemal’in ilk öğreniminde mahalle mektebi ve Şemsi Efendi Mektebi yer aldı. Eğitim tercihi ailesinin beklentileriyle şekillendi.",
+    "topic": "eğitim, çocukluk",
+    "tags": [
+      "Şemsi Efendi",
+      "mahalle mektebi",
+      "okul"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/"
+  },
+  {
+    "title": "Selanik’in çok kültürlü ortamı",
+    "date": "1881–1912",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Selanik, Osmanlı döneminde farklı dinî ve etnik toplulukların yaşadığı hareketli bir liman kentiydi. Bu çevre Mustafa Kemal’in yetiştiği toplumsal ortamın parçasıydı.",
+    "topic": "şehir, yaşam",
+    "tags": [
+      "Selanik",
+      "Osmanlı",
+      "liman",
+      "çocukluk"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/"
+  },
+  {
+    "title": "Manastır’da tarih ve edebiyat",
+    "date": "1896–1899",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Manastır Askerî İdadisinde okuduğu yıllar, Mustafa Kemal’in tarih, şiir ve hitabetle ilgilendiği gençlik dönemine rastlar.",
+    "topic": "eğitim, kültür",
+    "tags": [
+      "Manastır",
+      "edebiyat",
+      "tarih",
+      "gençlik"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/"
+  },
+  {
+    "title": "Namık Kemal’in etkisi",
+    "date": "gençlik dönemi",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Gençlik yıllarında Namık Kemal’in eserleriyle tanışması, vatan ve özgürlük konularına ilgisini besleyen kültürel etkenlerden biri olarak anlatılır.",
+    "topic": "kültür, düşünce",
+    "tags": [
+      "Namık Kemal",
+      "edebiyat",
+      "vatan",
+      "gençlik"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/"
+  },
+  {
+    "title": "Kurmay subaylık eğitimi",
+    "date": "1902–1905",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Harp Akademisindeki eğitim; askerî tarih, strateji ve kurmaylık derslerini kapsıyordu. Mustafa Kemal akademiyi kurmay yüzbaşı rütbesiyle tamamladı.",
+    "topic": "askerlik, eğitim",
+    "tags": [
+      "kurmay",
+      "Harp Akademisi",
+      "strateji"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Vatan ve Hürriyet oluşumu",
+    "date": "1906",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Şam’da görevliyken Mustafa Kemal ve bazı arkadaşları Vatan ve Hürriyet adlı gizli örgütlenmeyi kurdu. Dönemin istibdat yönetimine karşı siyasal muhalefet ortamında faaliyet gösterdi.",
+    "topic": "siyaset, askerlik",
+    "tags": [
+      "Vatan ve Hürriyet",
+      "Şam",
+      "örgütlenme"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "İkinci Meşrutiyet dönemi",
+    "date": "1908",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "II. Meşrutiyet’in ilanı Osmanlı yönetiminde anayasal ve parlamenter siyasetin yeniden başlamasını sağladı. Mustafa Kemal bu dönemde ordudaki görevini sürdürdü.",
+    "topic": "siyaset, tarih",
+    "tags": [
+      "II. Meşrutiyet",
+      "anayasa",
+      "parlamento"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Trablusgarp’ta yerel savunma",
+    "date": "1911–1912",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Osmanlı subayları Trablusgarp’ta yerel halktan birlikler oluşturarak İtalyan kuvvetlerine karşı mücadele etti. Mustafa Kemal Tobruk ve Derne çevresinde görev yaptı.",
+    "topic": "askerlik, savaş",
+    "tags": [
+      "Trablusgarp",
+      "Tobruk",
+      "Derne",
+      "yerel savunma"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/"
+  },
+  {
+    "title": "Balkan Savaşlarının sonucu",
+    "date": "1912–1913",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Balkan Savaşları Osmanlı Devleti’nin Avrupa’daki topraklarının büyük bölümünü kaybetmesine yol açtı. Mustafa Kemal, savaş yıllarında Gelibolu ve Bolayır çevresindeki görevlerde bulundu.",
+    "topic": "savaş, tarih",
+    "tags": [
+      "Balkan Savaşları",
+      "Gelibolu",
+      "Bolayır"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Sofya’da diplomatik gözlem",
+    "date": "1913–1914",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Sofya askerî ataşeliği, Mustafa Kemal’in yabancı başkentte diplomatik temsilcilik görevini yürüttüğü dönemdir. Bulgaristan’ın askerî ve siyasi durumunu raporladı.",
+    "topic": "diplomasi, askerlik",
+    "tags": [
+      "Sofya",
+      "ataşe",
+      "Bulgaristan"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Çanakkale’de 19. Tümen",
+    "date": "1915",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Mustafa Kemal, 19. Tümen komutanı olarak Çanakkale savunmasında görev aldı. Tümen, Arıburnu bölgesindeki muharebelerde önemli rol üstlendi.",
+    "topic": "askerlik, savaş",
+    "tags": [
+      "19. Tümen",
+      "Çanakkale",
+      "Arıburnu"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/"
+  },
+  {
+    "title": "Anafartalar Grubu komutanlığı",
+    "date": "1915",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Anafartalar muharebeleri sırasında Mustafa Kemal, Anafartalar Grubu komutanlığını yürüttü. Ağustos 1915’teki çatışmalar Çanakkale kara savaşlarının önemli safhalarındandı.",
+    "topic": "askerlik, savaş",
+    "tags": [
+      "Anafartalar",
+      "komutan",
+      "Çanakkale"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/"
+  },
+  {
+    "title": "Çanakkale’nin stratejik sonucu",
+    "date": "1915",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "İtilaf kuvvetleri Çanakkale Boğazı’nı geçerek İstanbul’a ulaşamadı ve Gelibolu Yarımadası’ndan çekildi. Cephedeki savunma, savaşın genel seyrini etkiledi.",
+    "topic": "askerlik, tarih",
+    "tags": [
+      "Gelibolu",
+      "Boğazlar",
+      "İtilaf kuvvetleri"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Doğu cephesinde kolordu komutanlığı",
+    "date": "1916",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Mustafa Kemal, Doğu Cephesi’nde 16. Kolordu komutanlığı yaptı. Bölgedeki Rus ilerleyişine karşı yürütülen askerî harekâtlarda sorumluluk üstlendi.",
+    "topic": "askerlik, savaş",
+    "tags": [
+      "16. Kolordu",
+      "Doğu Cephesi",
+      "Rusya"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Muş ve Bitlis’in geri alınması",
+    "date": "1916",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Rus işgali altındaki Muş ve Bitlis’in geri alınması, 1916 Doğu Cephesi harekâtlarının önemli sonuçları arasındaydı. Mustafa Kemal bu cephede komuta görevindeydi.",
+    "topic": "askerlik, savaş",
+    "tags": [
+      "Muş",
+      "Bitlis",
+      "Doğu Cephesi"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Veliaht Vahdettin’in Almanya gezisi",
+    "date": "1917",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Mustafa Kemal, Veliaht Vahdettin’in Almanya gezisine eşlik etti. Avrupa’daki askerî durumu ve Alman komuta çevrelerini gözlemledi.",
+    "topic": "diplomasi, askerlik",
+    "tags": [
+      "Almanya",
+      "Vahdettin",
+      "gezi"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Suriye cephesinde 7. Ordu",
+    "date": "1917–1918",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Mustafa Kemal, Suriye-Filistin cephesinde 7. Ordu komutanı olarak görev yaptı. Geri çekilme döneminde ordunun korunmasına ve yeniden düzenlenmesine çalıştı.",
+    "topic": "askerlik, savaş",
+    "tags": [
+      "7. Ordu",
+      "Suriye",
+      "Filistin"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Mondros Mütarekesi",
+    "date": "30 Ekim 1918",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Mondros Mütarekesi, Osmanlı Devleti’nin Birinci Dünya Savaşı’ndaki yenilgisini resmileştirdi. İtilaf kuvvetlerinin işgallerine zemin oluşturan hükümler içeriyordu.",
+    "topic": "savaş, siyaset",
+    "tags": [
+      "Mondros",
+      "mütareke",
+      "işgal"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/"
+  },
+  {
+    "title": "Yıldırım Orduları Grubu",
+    "date": "1918",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Mustafa Kemal, Mondros öncesinde Yıldırım Orduları Grubu komutanlığı görevini üstlendi. Mütareke sonrasında bu komutanlık dağıtıldı ve İstanbul’a döndü.",
+    "topic": "askerlik, tarih",
+    "tags": [
+      "Yıldırım Orduları",
+      "Mondros",
+      "komutanlık"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Samsun’dan Havza’ya geçiş",
+    "date": "Mayıs 1919",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Samsun’a çıktıktan sonra Havza’ya geçen Mustafa Kemal Paşa, işgallere karşı protesto ve örgütlenme çağrılarının yayılmasına katkı sağladı.",
+    "topic": "Millî Mücadele, örgütlenme",
+    "tags": [
+      "Havza",
+      "Samsun",
+      "protesto",
+      "genelge"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Havza Genelgesi",
+    "date": "28 Mayıs 1919",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Havza Genelgesi, işgallere karşı mitingler düzenlenmesi ve kamuoyunun harekete geçirilmesi çağrısında bulundu. Millî Mücadele’nin kitlesel örgütlenme adımlarından biriydi.",
+    "topic": "Millî Mücadele, genelge",
+    "tags": [
+      "Havza Genelgesi",
+      "miting",
+      "işgal"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Mustafa Kemal’in askerlikten ayrılması",
+    "date": "Temmuz 1919",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "İstanbul Hükûmeti’nin geri çağırma baskısı sırasında Mustafa Kemal askerlik görevinden ayrıldı. Mücadeleyi sivil ve siyasi bir lider olarak sürdürdü.",
+    "topic": "Millî Mücadele, yaşam",
+    "tags": [
+      "istifa",
+      "askerlik",
+      "Erzurum"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Erzurum Kongresi’nin kapsamı",
+    "date": "1919",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Erzurum Kongresi başlangıçta doğu illerinin savunmasına yönelik planlanmıştı. Mustafa Kemal’in başkanlığı ve alınan kararlar kongrenin ulusal etkisini genişletti.",
+    "topic": "Millî Mücadele, kongre",
+    "tags": [
+      "Erzurum",
+      "bölgesel kongre",
+      "ulusal mücadele"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/673/Erzurum-Kongresi"
+  },
+  {
+    "title": "Sivas Kongresi’nde cemiyetlerin birleşmesi",
+    "date": "1919",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Sivas Kongresi, Anadolu ve Rumeli’deki Müdafaa-i Hukuk cemiyetlerini tek örgüt çatısı altında toplama kararı aldı. Bu birleşme mücadele koordinasyonunu güçlendirdi.",
+    "topic": "Millî Mücadele, örgütlenme",
+    "tags": [
+      "Müdafaa-i Hukuk",
+      "Sivas",
+      "birleşme"
+    ],
+    "url": "https://ataturkansiklopedisi.gov.tr/detay/294/Sivas-Kongresi"
+  },
+  {
+    "title": "Temsil Heyeti’nin görev alanı",
+    "date": "1919",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Sivas Kongresi sonrasında Heyet-i Temsiliye ülke çapındaki direniş örgütlerini temsil ve yönetme sorumluluğunu üstlendi. Ankara’ya gelişe kadar çalışmalarını Anadolu’da sürdürdü.",
+    "topic": "Millî Mücadele, siyaset",
+    "tags": [
+      "Heyet-i Temsiliye",
+      "yönetim",
+      "Sivas"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "Misak-ı Millî’nin ilanı",
+    "date": "17 Şubat 1920",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Son Osmanlı Mebusan Meclisi, Misak-ı Millî kararlarını 17 Şubat 1920’de kamuoyuna duyurdu. Kararlar, bağımsızlık ve millî sınırlar taleplerini özetledi.",
+    "topic": "Millî Mücadele, siyaset",
+    "tags": [
+      "Misak-ı Millî",
+      "ilan",
+      "bağımsızlık"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "TBMM’nin ilk başkanı",
+    "date": "1920",
+    "type": "Kaynaklı kısa bilgi özeti",
+    "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
+    "content": "Mustafa Kemal, TBMM açıldığında Meclis Başkanlığına seçildi. Meclis başkanlığı, Millî Mücadele’nin siyasi liderliğiyle birlikte yürüttüğü temel görevlerden biri oldu.",
+    "topic": "TBMM, siyaset",
+    "tags": [
+      "Meclis Başkanı",
+      "Mustafa Kemal",
+      "1920"
+    ],
+    "url": "https://atam.gov.tr/dogumundan-olumune-kadar-kaynakcali-ataturk-gunlugu-tekrar-yayinda/"
+  },
+  {
+    "title": "İstiklal Marşı’nın kabulü",
+    "date": "12 Mart 1921",
+    "type": "Kaynaklı kısa bilgi özeti",
     "source": "Atatürk Ansiklopedisi / Atatürk Araştırma Merkezi (ATAM)",
     "content": "TBMM, Mehmet Âkif Ersoy’un yazdığı İstiklal Marşı’nı millî marş olarak kabul etti. Marş, Millî Mücadele döneminin bağımsızlık ve dayanışma duygusunu yansıtır.",
     "topic": "kültür, Millî Mücadele",
