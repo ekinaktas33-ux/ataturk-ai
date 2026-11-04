@@ -1,0 +1,95 @@
+[
+  {
+    "title": "Millî Eğitim — öğretmen ve yeni kuşak",
+    "date": "1924",
+    "type": "Konu derlemesi; kısa alıntı",
+    "source": "Atatürk Araştırma Merkezi (ATAM), Millî Eğitim",
+    "content": "Yeni kuşağı, cumhuriyetin özverili öğretmen ve eğitimcileri, sizler yetiştireceksiniz.",
+    "topic": "Eğitim, öğretmen, okul, yeni kuşak ve cumhuriyet eğitimi. ATAM sayfası alıntının dayanağını Atatürk'ün Söylev ve Demeçleri Cilt II, sayfa 42 olarak gösterir.",
+    "tags": ["eğitim", "öğretmen", "öğretim", "okul", "maarif", "kuşak"],
+    "url": "https://atam.gov.tr/milli-egitim/"
+  },
+  {
+    "title": "Kültür ve Bilim — gerçeği arama",
+    "date": "1931",
+    "type": "Konu derlemesi; kısa alıntı",
+    "source": "Atatürk Araştırma Merkezi (ATAM), Kültür ve Bilim",
+    "content": "Biz daima gerçek arayan ve onu buldukça, bulduğumuza inandıkça ifadeye cesaret eden adamlar olmalıyız.",
+    "topic": "Bilimsel yöntem, araştırma, kanıt, gerçek ve eleştirel düşünme. ATAM sayfası Uluğ İğdemir'in aktarımını kaynak gösterir.",
+    "tags": ["bilim", "araştırma", "kanıt", "gerçek", "akıl", "yöntem", "teknoloji"],
+    "url": "https://atam.gov.tr/kultur-ve-bilim/"
+  },
+  {
+    "title": "Kültür ve Bilim — bilimsel çalışma yöntemi",
+    "date": "1931",
+    "type": "Konu derlemesi; kısa alıntı",
+    "source": "Atatürk Araştırma Merkezi (ATAM), Kültür ve Bilim",
+    "content": "Her işin esas hedefine kısa ve kestirme yoldan varmak arzuya değer olmakla beraber, yolun akla uygun, mantıklı ve özellikle bilimsel olması şarttır.",
+    "topic": "Bilim, akıl, mantık, teknoloji ve karar verme yöntemi. ATAM sayfası Uluğ İğdemir'in aktarımını kaynak gösterir.",
+    "tags": ["bilim", "bilimsel", "akıl", "mantık", "teknoloji", "karar", "yöntem"],
+    "url": "https://atam.gov.tr/kultur-ve-bilim/"
+  },
+  {
+    "title": "Siyaset Bilimi ve Devlet Yönetimi — açık iletişim",
+    "type": "Konu derlemesi; kısa alıntı",
+    "source": "Atatürk Araştırma Merkezi (ATAM), Siyaset Bilimi ve Devlet Yönetimi",
+    "content": "Millet ile, milleti yönetenler çok açık görüşmelidirler.",
+    "topic": "Devlet yönetimi, siyaset, hükümet, kamu iletişimi ve millet ile yöneticiler arasındaki ilişki.",
+    "tags": ["yönetim", "devlet", "siyaset", "hükümet", "millet", "iletişim"],
+    "url": "https://atam.gov.tr/siyaset-bilimi-ve-devlet-yonetimi/"
+  },
+  {
+    "title": "Millî Savunma ve Askerlik Sanatı — subayların durumu",
+    "type": "Konu derlemesi; kısa alıntı",
+    "source": "Atatürk Araştırma Merkezi (ATAM), Millî Savunma ve Askerlik Sanatı",
+    "content": "Subaylarımızı yaşam kaygısı içinde bırakmak asla doğru olamaz.",
+    "topic": "Millî savunma, askerlik, ordu, subaylar ve personel koşulları. ATAM sayfasında ikincil hatırat kaynağı belirtilir.",
+    "tags": ["savunma", "asker", "askerî", "ordu", "subay", "güvenlik"],
+    "url": "https://atam.gov.tr/milli-savunma-ve-askerlik-sanati/"
+  },
+  {
+    "title": "Yaşam Görüşü — akıl ve mantık",
+    "type": "Konu derlemesi; kısa alıntı",
+    "source": "Atatürk Araştırma Merkezi (ATAM), Yaşam Görüşü",
+    "content": "Akıl ve mantığın çözemeyeceği sorun yoktur.",
+    "topic": "Akıl yürütme, mantık, sorun çözme ve yaşam görüşü. ATAM sayfası Afet İnan'ın aktarımını kaynak gösterir.",
+    "tags": ["akıl", "mantık", "sorun", "problem", "çözüm", "yaşam"],
+    "url": "https://atam.gov.tr/yasam-gorusu/"
+  },
+  {
+    "title": "Akılcılık, Bilimcilik, Gerçeklik",
+    "type": "Konu derlemesi",
+    "source": "Atatürk Araştırma Merkezi (ATAM), Akılcılık, Bilimcilik, Gerçeklik",
+    "content": "ATAM'ın bu konu derlemesi Atatürkçü düşüncede akılcılık, bilime dayanma ve gerçekçilik ilkelerini ele alıyor.",
+    "topic": "Akıl, bilim, gerçekçilik, kanıt, analiz ve düşünce yöntemleri.",
+    "tags": ["akıl", "bilim", "gerçekçilik", "gerçek", "analiz", "düşünce"],
+    "url": "https://atam.gov.tr/akilcilik-bilimcilik-gerceklik/"
+  },
+  {
+    "title": "Atatürk'ün Söylev ve Demeçleri I–III",
+    "type": "Birincil kaynak derlemesi",
+    "source": "Atatürk Araştırma Merkezi (ATAM) yayın kataloğu",
+    "content": "ATAM'ın tanıtımına göre derleme, 1906–1938 yılları arasındaki Atatürk'e ait söz ve yazıları bir araya getirir. Tam metni ve bağlamı için resmî yayın sayfasını inceleyin.",
+    "topic": "Konuşmalar, demeçler, yazılar, siyaset, eğitim, ekonomi, dış politika ve tarihî bağlam.",
+    "tags": ["söylev", "demeç", "konuşma", "yazı", "birincil kaynak", "tarih"],
+    "url": "https://atam.gov.tr/kitaplar/ataturkun-soylev-ve-demecleri-i-iii/"
+  },
+  {
+    "title": "Nutuk — ATAM resmî yayın bilgisi",
+    "type": "Birincil kaynak",
+    "source": "Atatürk Araştırma Merkezi (ATAM), Nutuk özgün dil baskısı",
+    "content": "ATAM, Nutuk'un 15–27 Ekim 1927 arasında Cumhuriyet Halk Partisi İkinci Kurultayı'nda altı gün boyunca okunduğunu bildiriyor. Bu kayıt eserin metni değil, resmî yayın bilgisi ve erişim bağlantısıdır.",
+    "topic": "Nutuk, Millî Mücadele, Cumhuriyet tarihi, siyaset ve tarihî kararlar.",
+    "tags": ["Nutuk", "tarih", "Millî Mücadele", "cumhuriyet", "siyaset", "konuşma"],
+    "url": "https://atam.gov.tr/mustafa-kemal-ataturk-tarafindan-kaleme-alinan-nutuk-ozgun-diliyle-yayinda/"
+  },
+  {
+    "title": "Atatürk Ansiklopedisi",
+    "type": "Araştırma başvuru kaynağı",
+    "source": "Atatürk Araştırma Merkezi (ATAM)",
+    "content": "ATAM'ın dijital ansiklopedisi Atatürk, dönemi, kurumlar ve tarihî olaylar hakkında kaynaklara dayalı maddeler sunar. Belirli konularda ayrıntı için ansiklopedi maddelerini açın.",
+    "topic": "Atatürk'ün hayatı, tarihî şahsiyetler, olaylar, kurumlar ve Cumhuriyet dönemi.",
+    "tags": ["ansiklopedi", "tarih", "Atatürk", "kaynak", "kurum", "olay"],
+    "url": "https://atam.gov.tr/ataturk-ansiklopedisi-dijital-ortamda-erisime-acildi/"
+  }
+]
